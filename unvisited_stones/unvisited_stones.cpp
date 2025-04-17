@@ -29,9 +29,9 @@ int unvisitedStones(int N, int stones, std::vector<int>& birds) {
 
 int main() {
     // Пример использования
-    int N = 3;                      // Количество птиц
-    int stones = 10;                // Общее количество валунов
-    std::vector<int> birds = {2, 3, 5}; // Дистанции перелёта птиц
+    int N = 4;                      // Количество птиц
+    int stones = 11;                // Общее количество валунов
+    std::vector<int> birds = {4, 5, 6}; // Дистанции перелёта птиц
 
     int result = unvisitedStones(N, stones, birds);
     std::cout << "Непосещённых валунов: " << result << std::endl;
