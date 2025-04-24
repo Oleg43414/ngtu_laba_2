@@ -1,0 +1,15 @@
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/PangramChecker/bin/Debug/net8.0/PangramChecker
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/PangramChecker/bin/Debug/net8.0/PangramChecker.deps.json
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/PangramChecker/bin/Debug/net8.0/PangramChecker.runtimeconfig.json
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/PangramChecker/bin/Debug/net8.0/PangramChecker.dll
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/PangramChecker/bin/Debug/net8.0/PangramChecker.pdb
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/PangramChecker/obj/Debug/net8.0/PangramChecker.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/PangramChecker/obj/Debug/net8.0/PangramChecker.AssemblyInfoInputs.cache
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/PangramChecker/obj/Debug/net8.0/PangramChecker.AssemblyInfo.cs
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/PangramChecker/obj/Debug/net8.0/PangramChecker.csproj.CoreCompileInputs.cache
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/PangramChecker/obj/Debug/net8.0/PangramChecker.sourcelink.json
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/PangramChecker/obj/Debug/net8.0/PangramChecker.dll
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/PangramChecker/obj/Debug/net8.0/refint/PangramChecker.dll
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/PangramChecker/obj/Debug/net8.0/PangramChecker.pdb
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/PangramChecker/obj/Debug/net8.0/PangramChecker.genruntimeconfig.cache
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/PangramChecker/obj/Debug/net8.0/ref/PangramChecker.dll

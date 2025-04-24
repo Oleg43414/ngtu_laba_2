@@ -1,0 +1,15 @@
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/DigitOps/bin/Debug/net8.0/DigitOps
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/DigitOps/bin/Debug/net8.0/DigitOps.deps.json
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/DigitOps/bin/Debug/net8.0/DigitOps.runtimeconfig.json
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/DigitOps/bin/Debug/net8.0/DigitOps.dll
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/DigitOps/bin/Debug/net8.0/DigitOps.pdb
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/DigitOps/obj/Debug/net8.0/DigitOps.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/DigitOps/obj/Debug/net8.0/DigitOps.AssemblyInfoInputs.cache
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/DigitOps/obj/Debug/net8.0/DigitOps.AssemblyInfo.cs
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/DigitOps/obj/Debug/net8.0/DigitOps.csproj.CoreCompileInputs.cache
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/DigitOps/obj/Debug/net8.0/DigitOps.sourcelink.json
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/DigitOps/obj/Debug/net8.0/DigitOps.dll
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/DigitOps/obj/Debug/net8.0/refint/DigitOps.dll
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/DigitOps/obj/Debug/net8.0/DigitOps.pdb
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/DigitOps/obj/Debug/net8.0/DigitOps.genruntimeconfig.cache
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/DigitOps/obj/Debug/net8.0/ref/DigitOps.dll

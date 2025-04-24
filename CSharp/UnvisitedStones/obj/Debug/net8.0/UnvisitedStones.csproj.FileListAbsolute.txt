@@ -1,0 +1,15 @@
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/UnvisitedStones/bin/Debug/net8.0/UnvisitedStones
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/UnvisitedStones/bin/Debug/net8.0/UnvisitedStones.deps.json
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/UnvisitedStones/bin/Debug/net8.0/UnvisitedStones.runtimeconfig.json
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/UnvisitedStones/bin/Debug/net8.0/UnvisitedStones.dll
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/UnvisitedStones/bin/Debug/net8.0/UnvisitedStones.pdb
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/UnvisitedStones/obj/Debug/net8.0/UnvisitedStones.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/UnvisitedStones/obj/Debug/net8.0/UnvisitedStones.AssemblyInfoInputs.cache
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/UnvisitedStones/obj/Debug/net8.0/UnvisitedStones.AssemblyInfo.cs
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/UnvisitedStones/obj/Debug/net8.0/UnvisitedStones.csproj.CoreCompileInputs.cache
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/UnvisitedStones/obj/Debug/net8.0/UnvisitedStones.sourcelink.json
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/UnvisitedStones/obj/Debug/net8.0/UnvisitedStones.dll
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/UnvisitedStones/obj/Debug/net8.0/refint/UnvisitedStones.dll
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/UnvisitedStones/obj/Debug/net8.0/UnvisitedStones.pdb
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/UnvisitedStones/obj/Debug/net8.0/UnvisitedStones.genruntimeconfig.cache
+/home/admin-pc/Документы/GitHub/ngtu_laba_2/CSharp/UnvisitedStones/obj/Debug/net8.0/ref/UnvisitedStones.dll
